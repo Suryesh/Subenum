@@ -52,6 +52,16 @@ or,
 
 ## Screenshots
 
+- **Result 1:**
+  ![Result 1](screenshots/result1.png)
+
+- **Result 2:**
+  ![Result 2](screenshots/result2.png)
+
+- **Result 3:**
+  ![Result 3](screenshots/result3.png)
+
+
 ## Contributing
 
 Explain how others can contribute to your project if it's open-source.
