@@ -48,7 +48,7 @@ or,
 ## Example Output
  - subdomain1.example.com
  - subdomain2.example.com
- ...............
+ - ...............
 
 ## Contributing
 
