@@ -46,8 +46,8 @@ or,
 **python subenum.py -u examole.com -o target.txt**
 
 ## Example Output
- subdomain1.example.com
- subdomain2.example.com
+ - subdomain1.example.com
+ - subdomain2.example.com
  ...............
 
 ## Contributing
