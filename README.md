@@ -6,8 +6,6 @@ The Subdomain Extractor is a Python-based tool designed to simplify the process 
 
 ## Key Features
 
-## Key Features
-
 - **Subdomain Enumeration:**
   Automatically scans and extracts subdomains associated with the target domain.
 
