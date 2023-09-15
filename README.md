@@ -27,7 +27,11 @@ The Subdomain Extractor is a Python-based tool designed to simplify the process 
 
 ## Installation
 
-Describe how to install your project, if necessary.
+1. Clone this repository
+   git clone https://github.com/yourusername/subdomain-extractor.git
+2. Install dependencies:
+   pip install -r requirements.txt
+
 
 ## Usage
 
@@ -36,11 +40,3 @@ Provide examples and instructions for using your project.
 ## Contributing
 
 Explain how others can contribute to your project if it's open-source.
-
-## License
-
-State the license for your project, if applicable.
-
-## Acknowledgments
-
-Give credit to any libraries, tools, or individuals you want to acknowledge.
