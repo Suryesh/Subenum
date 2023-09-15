@@ -1,8 +1,17 @@
-# Project Title
+# Subdomain enumeration
 
 ## Description
 
-Briefly describe your project here.
+The Subdomain Extractor is a Python-based tool designed to simplify the process of discovering subdomains associated with a target domain. Whether you are a cybersecurity professional, a web developer, or a curious enthusiast, this tool provides an efficient way to enumerate subdomains and gather valuable information about your target.
+
+##Key Features
+
+Subdomain Enumeration:- Automatically scans and extracts subdomains associated with the target domain.
+Parallel Processing:- Utilizes multi-threading to enhance the speed of subdomain discovery.
+Custom DNS Resolution:- Supports custom DNS server configurations for precise domain resolution.
+Verbose Mode:- Enable verbose output for detailed information about the enumeration process.
+Threads Mode: Enable threads mode for get huge ammount of subdomains
+Wildcard Detection: It has ability to detect wildcard DNS entries
 
 ## Installation
 
