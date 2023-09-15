@@ -35,7 +35,9 @@ The Subdomain Extractor is a Python-based tool designed to simplify the process 
 
 ## Usage
 
-Provide examples and instructions for using your project.
+Run the subenum.py  file with target domain and provide output file  path if you'll not provide output path then it will generate output in same directory.\
+python subdomain_extractor.py example.com
+
 
 ## Contributing
 
