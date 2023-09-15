@@ -50,6 +50,8 @@ or,
  - subdomain2.example.com
  - ...............
 
+## Screenshots
+
 ## Contributing
 
 Explain how others can contribute to your project if it's open-source.
