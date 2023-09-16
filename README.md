@@ -48,6 +48,8 @@ or,
 
 **python subenum.py -u examole.com -o target.txt**
 
+we can use this tool in windows as wwll as in all LInux distribution
+
 ## Example Output
  - subdomain1.example.com
  - subdomain2.example.com
