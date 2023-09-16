@@ -33,7 +33,9 @@ The Subdomain Extractor is a Python-based tool designed to simplify the process 
 2. **Install dependencies:**
 
      pip install -r requirements.txt
-
+   
+4. **give Executable permision**
+   chmod +x subenum.py
 
 ## Usage
 
