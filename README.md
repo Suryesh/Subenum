@@ -33,11 +33,14 @@ The Subdomain Extractor is a Python-based tool designed to simplify the process 
 2. **Install dependencies:**
 
      pip install -r requirements.txt
-
+   
+4. **Give Executable permision**
+   
+   chmod +x subenum.py
 
 ## Usage
 
-Run the subenum.py  file with target domain and provide output file  path if you'll not provide output path then it will generate output in same directory.
+Run the subenum.py  file with target domain and provide output file  path otherwise it will generate output in same directory.
 
 **python subdomain_extractor.py -u example.com -o /path/output.txt**
 
