@@ -80,8 +80,6 @@ or,
   
 ## Contributing
 
-## Contributors
-
 Thank you to the following contributors for their valuable contributions to this project:
 
 - [Raushan Kumar](https://github.com/eryadav9955)
