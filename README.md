@@ -59,12 +59,14 @@ or,
   ![Result 1](Screenshots/result1.png)
 
 - **Result 2:**
-  ![Result 2](screenshots/result2.png)
+  ![Result 2](Screenshots/result2.png)
 
 - **Result 3:**
-  ![Result 3](screenshots/result3.png)
+  ![Result 3](Screenshots/result3.png)
 
-
+- **Result 4:**
+  ![Result 3](Screenshots/result4.png)
+  
 ## Contributing
 
 Explain how others can contribute to your project if it's open-source.
