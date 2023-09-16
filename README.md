@@ -48,6 +48,11 @@ or,
 
 **python subenum.py -u example.com -o target.txt**
 
+or,
+
+**python subenum.py -u example.com** 
+- This command will save output automatically in Output directory
+
 **we can use this tool in windows as wwll as in all LInux distribution**
 
 ## Example Output
