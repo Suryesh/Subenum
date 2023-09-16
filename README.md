@@ -51,7 +51,7 @@ or,
 or,
 
 **python subenum.py -u example.com** 
-- This command will save output automatically in Output directory
+- This command will save output automatically in same directory
 
 **we can use this tool in windows as well as in all LInux distribution**
 
