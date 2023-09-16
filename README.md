@@ -30,7 +30,11 @@ The Subdomain Extractor is a Python-based tool designed to simplify the process 
 1. **Clone this repository:**
 
      git clone https://github.com/Suryesh/Subenum.git
-2. **Install dependencies:**
+2. **Go to Subenum directory:**
+   
+   cd Subenum
+   
+3. **Install dependencies:**
 
      pip install -r requirements.txt
    
