@@ -46,7 +46,7 @@ Run the subenum.py  file with target domain and provide output file  path otherw
 
 or,
 
-**python subenum.py -u examole.com -o target.txt**
+**python subenum.py -u example.com -o target.txt**
 
 **we can use this tool in windows as wwll as in all LInux distribution**
 
