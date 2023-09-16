@@ -56,6 +56,7 @@ or,
 ## Screenshots
 
 - **Result 1:**
+  
   ![Result 1](Screenshots/result1.png)
 
 - **Result 2:**
