@@ -15,20 +15,17 @@ print(final_banner)
 # Wordlist file path
 wordlist_path = "words.txt"
 
-# Default output directory
+# Output directory
 DEFAULT_OUTPUT_DIRECTORY = "Output"
-
-# Default output filename
 DEFAULT_OUTPUT_FILE = os.path.join(DEFAULT_OUTPUT_DIRECTORY, "output.txt")
 
-# Ensure the output directory exists
 if not os.path.exists(DEFAULT_OUTPUT_DIRECTORY):
     os.makedirs(DEFAULT_OUTPUT_DIRECTORY)
 
 def enumerate_subdomain(subdomain, target_domain, args, verbose=False):
     full_domain = f"{subdomain}.{target_domain}"
     try:
-        # Use a custom DNS resolver if specified
+        # DNS resolver
         if args.dns:
             ip_address = socket.gethostbyname_ex(full_domain, args.dns)[0]
         else:
@@ -39,7 +36,7 @@ def enumerate_subdomain(subdomain, target_domain, args, verbose=False):
             print(result)
         return result
     except socket.gaierror:
-        return None  # Subdomain does not exist
+        return None
 
 # Help section
 def display_help():
@@ -71,11 +68,10 @@ def main():
         print(f"Error: Wordlist file '{wordlist_path}' not found.")
         sys.exit(1)
 
-    # Determine the output file path
+    # Determining the output file path
     if args.output:
         output_file_path = args.output
     else:
-        # Use the default output file path
         output_file_path = DEFAULT_OUTPUT_FILE
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=args.threads) as executor:
@@ -88,7 +84,6 @@ def main():
             for result in results:
                 if result:
                     out_file.write(result + '\n')
-                    # Print the result to the terminal
                     print(result)
 
 if __name__ == "__main__":
