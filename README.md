@@ -82,7 +82,7 @@ or,
 
   ![Result 3](Screenshots/result4.png)
   
-## Contributing
+## Contributer's
 
 Thank you to the following contributors for their valuable contributions to this project:
 
